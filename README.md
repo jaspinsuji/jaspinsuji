@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I am Jaspin Suji
 
-<!--
-**jaspinsuji/jaspinsuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software trainee.
 
-Here are some ideas to get you started:
+![image](https://www.canva.com/design/DAFh8we-OPM/SoAVwRUplnAv10qB9Rr4lA/edit?layoutQuery=react+badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate learner ready to tackle all the challenges of the constantly evolving UI field with keen interest.
+
+💻 I'm a Front end Developer.
+💼 Check my professional profile on Linkedin
+
+
+
+
+☎️ Contact me
+
