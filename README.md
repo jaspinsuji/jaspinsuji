@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jaspin Suji 👨‍💻
 
-## Software trainee.
+## Software Developer.
 
 <img src="(https://www.cmarix.com/blog/wp-content/uploads/2022/10/Why-Use-ReactJS-For-Developing-Websites-And-Mobile-Apps.png)"/>
 
